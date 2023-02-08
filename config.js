@@ -9,9 +9,9 @@ const CONFIG = {
     btnNo: 'Vẫn chưa dịch được haa (๑˘︶˘๑)',
     question: 'Đức Anh có biết sau khi suy nghĩ mình nhớ đến câu nói nào trong truyện mà mình thích nhất hôngg',
     btnReply: 'Chắc là hong rùi 🤭',
-    reply: 'Đó là câu: Có một số việc không thể chỉ vì không có nhiều hy vọng mà bỏ qua không làm. Nếu ai cũng chăm chăm vào kết quả, thì những việc ngỡ như không thể làm được xưa nay nhưng lại hoàn thành được là ai làm chứ?',
+    mess: 'Đó là câu: Có một số việc không thể chỉ vì không có nhiều hy vọng mà bỏ qua không làm. Nếu ai cũng chăm chăm vào kết quả, thì những việc ngỡ như không thể làm được xưa nay nhưng lại hoàn thành được là ai làm chứ?',
     mess: 'Việc hai ta trở thành người iu nhau thì kết quả sau này ko thể nói trước được, có thể vui cũng có thể buồn. Nhưng...  ',
     messDesc: 'Gặp nhau đã là một cái duyên. Đi được đến đâu là tùy duyên ngắn hay dài. Nhưng tiền đề cho điều đó là phải trao nhau cơ hội."Thiên trường địa cửu là lý tưởng, hiện tại mới là sự thật"    ',
     btnAccept: 'Tóm lại là: Mình đồng ý lời tỏ tình của bạn ạaa',
-    messLink: 'https://www.canva.com/design/DAFZ9y3RSC4/UYVezpXHFc_uvxiuhk0dvA/watch?utm_content=DAFZ9y3RSC4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.canva.com/design/DAFZ9y3RSC4/UYVezpXHFc_uvxiuhk0dvA/watch?utm_content=DAFZ9y3RSC4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'.
 }
