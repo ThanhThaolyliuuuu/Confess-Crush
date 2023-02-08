@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    titleWeb: "Gủi Đức Anh,",
+    introTitle: 'Thân gửi Đức Anh - Câu trả lời cho lá thư của bạn! 🐇',
+    introDesc: `521`,
+    btnIntro: 'Nghĩa gì vậy ta 🪐 (đi tiếp để hiểu nào)',
+    title: ' 521 - 我愿意',
+    desc: '540086: 我是你女朋友 (Wǒ shì nǐ nǚ péngyǒu)',
+    btnYes: 'Chắc là dịch nghĩa được rùi nhỉ („• ֊ •„)',
+    btnNo: 'Vẫn chưa dịch được haa (๑˘︶˘๑)',
+    question: 'Đức Anh có biết sau khi suy nghĩ mình nhớ đến câu nói nào trong truyện mà mình thích nhất hôngg',
+    btnReply: 'Chắc là hong rùi 🤭',
+    reply: 'Đó là câu: Có một số việc không thể chỉ vì không có nhiều hy vọng mà bỏ qua không làm. Nếu ai cũng chăm chăm vào kết quả, thì những việc ngỡ như không thể làm được xưa nay nhưng lại hoàn thành được là ai làm chứ?',
+    mess: 'Việc hai ta trở thành người iu nhau thì kết quả sau này ko thể nói trước được, có thể vui cũng có thể buồn. Nhưng...  ',
+    messDesc: 'Gặp nhau đã là một cái duyên. Đi được đến đâu là tùy duyên ngắn hay dài. Nhưng tiền đề cho điều đó là phải trao nhau cơ hội."Thiên trường địa cửu là lý tưởng, hiện tại mới là sự thật"    ',
+    btnAccept: 'Tóm lại là: Mình đồng ý lời tỏ tình của bạn ạaa',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
